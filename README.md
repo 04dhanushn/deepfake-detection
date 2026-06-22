@@ -56,8 +56,6 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 Feel free to [open an issue](https://github.com/iamdhrutipatel/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
 
 ## Developers
-1. [Gowtham](https://github.com/GowthamRaja-git)
-2. [Hubert]
-3. [Dhanush]
-4. [Bhuvaneshwaran]
+1. Dhanush.N
+
 
